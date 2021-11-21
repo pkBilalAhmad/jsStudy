@@ -1,3 +1,4 @@
+
 const user = {
     id: 42,
     displayName: 'jdoe',
@@ -19,3 +20,6 @@ const user = {
   document.getElementById('root2').innerHTML = whois(user)
 //   console.log(userId(user)); // 42
 //   console.log(whois(user));  // "jdoe is John"
+
+
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment
